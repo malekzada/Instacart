@@ -4,6 +4,9 @@
 ### About Instacart  
 Instacart, an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns.
 
+### Overview
+This repository focuses on intensive analysis of Instacart company's Sales and customers based on 'The instacart online grocery shopping dataset 2017'. The analysis focuses on providing insights on customer behavior, purchasing patterns, best performing days/hours, popularity of certain products, performance of different departments, spending behavior in different regions. Furthermore, it includes creating multiple different categories of customers like loyalty flags, income classes, and age groups to answer important key questions of stakeholders. At the end, different recommendations are given based on the insights uncovered in this analysis.
+
 #### Key Questions  
 ● The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.  
 ● They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.  
@@ -19,8 +22,6 @@ Instacart, an online grocery store that operates through an app. Instacart alrea
 
 #### Dataset  
 The dataset used in this analysis is from Open-Source dataset by Instacart which includes data on Customers, Orders, Departments, and Products.
-
-
 
 ## Sources and Links:
 [Customer Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)  
