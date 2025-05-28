@@ -23,6 +23,18 @@ This repository focuses on intensive analysis of Instacart company's Sales and c
 #### Dataset  
 The dataset used in this analysis is from Open-Source dataset by Instacart which includes data on Customers, Orders, Departments, and Products.
 
+#### Project Folders
+01. 01 Project Management  
+     - A4_Data_Immersion_Project_Brief: Project brief including objectives, key questions, analysis criteria, tasks and deliverables.  
+02. 03 Scripts  
+     - Instacart Project Analysis: includes python scripts used to uncover instacart insights.  
+03. 05 Sent To Client  
+     - A4_final_report_template: Brief Excel file including steps taken to derive the insights and changes made to cleanup the data sets.  
+04. Visualizations: includes visualizations of the insights derived from the data set.
+
+### CODE
+- Libraries Used: Pandas, Numpy, OS, Seaborn, Scipy,
+
 ## Sources and Links:
 [Customer Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)  
 [Orders and Products Data set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)  
