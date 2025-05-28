@@ -33,7 +33,7 @@ The dataset used in this analysis is from Open-Source dataset by Instacart which
 04. Visualizations: includes visualizations of the insights derived from the data set.
 
 ### CODE
-- Libraries Used: Pandas, Numpy, OS, Seaborn, Scipy,
+- Libraries Used: Pandas, Numpy, OS, Seaborn, Scipy, matplotlib.pyplot
 
 ## Sources and Links:
 [Customer Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)  
